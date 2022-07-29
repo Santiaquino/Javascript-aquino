@@ -1,0 +1,19 @@
+/* styles de la entrega complementaria*/
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+#tituloUno{
+    font-size: 3rem;
+    color: brown;
+    text-decoration: underline;
+    background-color: burlywood;
+    padding: 1rem;
+    text-align: center;
+}
+
+.backgroundSubtitulo{
+    background-color: goldenrod;
+}
