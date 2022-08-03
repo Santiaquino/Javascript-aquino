@@ -1,0 +1,27 @@
+/* Estilos*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: burlywood;
+}
+
+#container{
+    display: flex;
+}
+
+.card{
+    margin: 2rem;
+    background-color: blanchedalmond;
+}
+
+
+.titulo{
+    text-align: center;
+    font-size: 3rem;
+    margin: 1rem 0rem 2rem 0rem;
+}
